@@ -96,7 +96,7 @@ function firstOfArray() {
     //document.getElementById("firstOfArray").innerHTML = list;
 
 }
-function myFunction() {
+function myHWFunction() {
     var x = document.getElementById("myInput");
    
     document.getElementById("demo").innerHTML = "You are searching for: " + x.value;
@@ -106,4 +106,14 @@ function myFunction() {
 
 function myFunction2() {
     alert('Red');
+}
+
+function myFunctionDi() {
+    var x = document.getElementById("mySelect").value;
+    if (x == "flower") {
+        document.getElementById("myImg").src = "/Content/CAshield.png";
+    }
+    else if (x == "Puppy") {
+        document.getElementById("myImg").src = "/Content/hulkhand.jpg";
+    }
 }

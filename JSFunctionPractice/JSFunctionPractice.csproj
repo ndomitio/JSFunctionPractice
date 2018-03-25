@@ -152,6 +152,8 @@
     <Content Include="Content\avohello.gif" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\CAshield.png" />
+    <Content Include="Content\hulkhand.jpg" />
     <Content Include="Content\JavaScript.js" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
